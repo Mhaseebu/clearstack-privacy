@@ -1,0 +1,53 @@
+Privacy Policy — Clear Stack: Arrow Puzzle
+Last updated: October 19, 2026
+
+This Privacy Policy explains what information Clear Stack: Arrow Puzzle (the "App") collects, how it is used, and the choices available to you. The App is developed and published by HyperXcite ("we," "us," or "our"). By downloading or using the App, you agree to the practices described in this policy.
+
+Information We Collect
+
+Information stored only on your device
+To let you pick up where you left off, the App saves the following directly on your device, using standard local app storage. This information is never transmitted to us and we never see it:
+
+Your current level progress
+Your sound on/off preference
+This data stays on your device and is removed automatically if you uninstall the App or clear its storage.
+
+Information collected by third-party services
+The App displays advertisements using Google AdMob. To serve and measure ads, Google and its advertising partners may automatically collect certain information from your device, such as your advertising identifier, general device information, approximate location, and ad interaction data. This collection and processing is governed by Google's own privacy policy, linked below.
+
+We do not operate our own servers, do not require account creation, and do not directly collect your name, email address, or other personal information through the App itself.
+
+How Information Is Used
+
+Purpose: App functionality
+Details: Locally stored level progress and sound settings let the App remember your preferences between sessions.
+
+Purpose: Advertising
+Details: Google AdMob uses device and advertising-identifier data to serve ads, measure their performance, and limit how often you see the same ad. Depending on your region and settings, ads may be personalized or non-personalized.
+
+Third-Party Service Providers
+The App uses the following third-party service:
+
+Google AdMob (advertising) — Google Privacy Policy: https://policies.google.com/privacy, Google's Publisher-side Consent Policy: https://support.google.com/admob/answer/9681920
+
+You can review and adjust how Google personalizes ads across apps at adssettings.google.com, or disable ad personalization at the device level under your Android Settings → Google → Ads.
+
+Your Choices
+Ad personalization: you can opt out of personalized advertising at any time through your device's ad settings (Settings → Google → Ads → Opt out of Ads Personalization) or at adssettings.google.com.
+Local data: uninstalling the App or clearing its storage permanently removes your saved level progress and sound preference from your device.
+
+Children's Privacy
+The App is intended for a general audience and is not directed at children under 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us using the details below so we can address it.
+
+Data Retention & Security
+Locally stored data (level progress, sound preference) remains on your device under your control until you uninstall the App or clear its storage. We do not maintain our own backend servers or databases of user data. Information collected by Google AdMob is retained and secured according to Google's own data retention and security practices.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time to reflect changes in the App or applicable law. The "Last updated" date at the top of this page indicates when it was last revised. Continued use of the App after a revision constitutes acceptance of the updated policy.
+
+Contact Us
+If you have questions about this Privacy Policy or how your information is handled, you can reach us at:
+
+App: Clear Stack: Arrow Puzzle
+Email: haseebmuhammad75@gmail.com
+Address: Opiskelijankatu 4A 94
